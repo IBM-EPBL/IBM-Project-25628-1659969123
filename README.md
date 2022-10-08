@@ -22,4 +22,23 @@
 
 
   
- 
+ <p align="center" dir="auto">
+<a href="https://www.ibm.com/in-en" rel="nofollow">
+<img src="https://camo.githubusercontent.com/10f27e56a60b45f14ef04164ea4dc5a987a3c35de2d2e6cd1de058a97ec0f046/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f49424d2d3035324641442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d49424d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&amp;logo=IBM&amp;logoColor=white" style="max-width: 100%;"> 
+</a>
+   <a href="https://www.python.org/g" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/3cdf9577401a2c7dceac655bbd37fb2f3ee273a457bf1f2169c602fb80ca56f8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667" width="182" data-canonical-src="https://forthebadge.com/images/badges/made-with-python.svg" style="max-width: 100%;">
+  </a>
+  <a href="https://www.ibm.com/cloud" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/f3b12cd405df9fb7ddf24a7e9a4cb67500132654c824074a7abae050d2d4d312/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f49424d253230576174736f6e2d4245393546462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d49424d2d576174736f6e266c6f676f436f6c6f723d7768697465" width="130" data-canonical-src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&amp;logo=IBM-Watson&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://opencv.org/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/c3c6a7ab361583c5a52ece6790ab5569f67e36070d83cb52d69f5be0781c8909/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e43562d3543334545382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4f70656e4356266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&amp;logo=OpenCV&amp;logoColor=white" style="max-width: 100%;">
+   </a>
+  <a href="https://pandas.pydata.org/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/0295f37a75c6b4aa3684bb5b35e9d3f8b24c85adf8c48ee2e2bb09913c6ddca2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d3135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+ <a href="https://keras.io/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/4b966bde9336dd4af7cf41d86e539610834d499c261a3a0870362eff2cc8526c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b657261732d4430303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4b65726173266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&amp;logo=Keras&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+</p>
