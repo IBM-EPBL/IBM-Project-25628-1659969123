@@ -82,8 +82,8 @@
 
    
    <ul dir="auto">
-<li> Web phishing aims to steal private information, such as usernames, passwords, and credit card details, by way of impersonating a legitimate entity.&gt;</li>
-     <li> Loss of corporate funds</li>
-     <li>Ransomware to extort large amounts of money from businesses</li>
-     <li>Fraudulent charges on credit cards</li>
+<li> Web phishing aims to steal private information, such as usernames, passwords, and credit card details, by way of impersonating a legitimate entity.</li>
+     <li> Loss of corporate funds.</li>
+     <li>Ransomware to extort large amounts of money from businesses.</li>
+     <li>Fraudulent charges on credit cards.</li>
   </ul>
