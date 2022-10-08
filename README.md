@@ -87,3 +87,9 @@
      <li>Ransomware to extort large amounts of money from businesses.</li>
      <li>Fraudulent charges on credit cards.</li>
   </ul>
+   
+   
+  <h2 dir="auto"><a id="user-content------Social Impact-" class="anchor" aria-hidden="true" href="#-----Social Impact-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+  <source srcset="https://camo.githubusercontent.com/6a2b5e860379207ed7b21cc1bef749a0fc3e6e99eb2998c8f53bf609b35f9683/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f323736345f666530662f3531322e77656270" type="image/webp" data-canonical-src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp">
+  <img src="https://camo.githubusercontent.com/330d05149bd234e57e0f4fa5898632851815a3364373d403ce9b0ad7d120c7f7/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f323736345f666530662f3531322e676966" alt="❤" width="32" height="32" data-canonical-src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" style="visibility:visible;max-width:100%;">
+</picture></themed-picture> Social Impact :</h2> 
