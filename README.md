@@ -79,3 +79,11 @@
   <source srcset="https://camo.githubusercontent.com/e4fa5bd57a3e2ff9e9a474b3f5cce9ce8d2191b1a1d3596334cc4a7a1aae8941/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663461352f3531322e77656270" type="image/webp" data-canonical-src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.webp">
   <img src="https://camo.githubusercontent.com/c3f77b596415b841c9948bed824e1ab6e51e0758e5db5e07b9b3af5fc894cc24/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663461352f3531322e676966" alt="💥" width="32" height="32" data-canonical-src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.gif" style="visibility:visible;max-width:100%;">
 </picture></themed-picture> Threats of Web Phishing :</h2>
+
+   
+   <ul dir="auto">
+<li> Web phishing aims to steal private information, such as usernames, passwords, and credit card details, by way of impersonating a legitimate entity.&gt;</li>
+     <li> Loss of corporate funds</li>
+     <li>Ransomware to extort large amounts of money from businesses</li>
+     <li>Fraudulent charges on credit cards</li>
+  </ul>
