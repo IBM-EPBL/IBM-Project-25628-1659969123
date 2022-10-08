@@ -93,3 +93,11 @@
   <source srcset="https://camo.githubusercontent.com/6a2b5e860379207ed7b21cc1bef749a0fc3e6e99eb2998c8f53bf609b35f9683/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f323736345f666530662f3531322e77656270" type="image/webp" data-canonical-src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp">
   <img src="https://camo.githubusercontent.com/330d05149bd234e57e0f4fa5898632851815a3364373d403ce9b0ad7d120c7f7/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f323736345f666530662f3531322e676966" alt="❤" width="32" height="32" data-canonical-src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" style="visibility:visible;max-width:100%;">
 </picture></themed-picture> Social Impact :</h2> 
+
+   
+<ul dir="auto">
+<li> Phishing websites has a lot of effects interms of property loss,data loss,privacy loss, damage of reputation and disruption of operational activities.some of the companies like jp moragan, sony pictures effected by data breach due to phishing .
+•	JPMorgan Chase experienced , one of the most significant phishing breaches in history. In 2014, the company announced that the contact information for 76 million households and seven million businesses were compromised in the massive attack.
+•	Using phishing and spearphishing emails, which contained malware, the attackers gained access to Sony’s network and performed months of covert reconnaissance. This attack lead to a cost of $100 million.
+Customer satisfaction: By using our web phishing detection website the user can check their websites by copy and paste the phising URL. After knowing the result they can be completely safe from above mentioned impacts.
+</li></ul>   
