@@ -22,6 +22,4 @@
 
 
   
-  <source srcset="https://camo.githubusercontent.com/48c494cf48cfec3be1fb3779f1c2db00b7f449c35f8126803520a8205243f3e1/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663334302f3531322e77656270" type="image/webp" data-canonical-src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp">
-  <img src="https://camo.githubusercontent.com/9dcfe1f2f2728c4f61f69e65bc55d33d43af00e184e18e5d57b069ef86e84f8c/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663334302f3531322e676966" alt="🍀" width="32" height="32" data-canonical-src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" style="visibility:visible;max-width:100%;">
-</picture></themed-picture></a></h2>
+ 
