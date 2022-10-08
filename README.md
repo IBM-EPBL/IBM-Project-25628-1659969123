@@ -68,5 +68,9 @@
   <source srcset="https://camo.githubusercontent.com/507162184a78574cb9e05aedb19b98f98e218b89263736fd3366cccca99f367f/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663331662f3531322e77656270" type="image/webp" data-canonical-src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp">
   <img src="https://camo.githubusercontent.com/f44df09c227a5924a271b5f919d4c51b32d9d5f44c186d2bccf7fe3625c2c648/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663331662f3531322e676966" alt="🌟" width="32" height="32" data-canonical-src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" style="visibility:visible;max-width:100%;">
 </picture></themed-picture> Problem Solution :</h2>
+ 
    
+   <ul dir="auto">
+<li> The model we propsoed is capable of detecting and predicting e-banking phishing websites effectively, using machine learning classification algorithms.The e-banking phishing website can be detected by considering some of the key factors like the domain identitiy, URL, security & envcryption criteria in the phishing detection rate. Inorder to get rid of phishing attacks one needs to change the passwords continously and use anti-phishing websites to prevent from attacks. </li>
+  </ul>
  
