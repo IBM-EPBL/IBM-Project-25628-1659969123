@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <title> Phishing Detector</title>
+    </head>
+    <body style="background-image: url(https://cdn.wallpapersafari.com/51/41/4hBGfM.gif);
+    
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- BootStrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <title>URL detection</title>		    
+    </head>
+    <br><br>
+    <!-- <h1 style="text-align: center; color: rgb(255, 255, 255); background-color: rgba(0, 4, 54, 0.715); "></h1> -->
+    <h1 style="text-align: center; color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0.715);color: white;">
+        Phishing URL Dectector</h1>
+    <br><br><br><br><br><br>
+    {% if type==None %}
+        <center>
+            <div class="card" style="width: 18rem; background-color: rgba(191, 240, 255, 0.574);">
+                <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+                <h5 class="card-title" style="color: rgb(223, 223, 223);"><b>  </b></h5>
+                <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+                <form action="/#" method="POST">
+                <p><input style="width: 270px;" class="form-input" type="text" name="url" placeholder="Paste URL here",value="50">  <br></p>
+                <input type="submit" value="Predict">
+                </form>
+
+            </div>
+        </center> 
+
+    {% elif type=='Phishing'%}
+    <center>
+        <div class="card" style="width: 18rem; background-color: rgba(255, 50, 50, 0.804);">
+            <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+            <h5 class="card-title" style="color: rgb(223, 223, 223);"><b> Phishing </b></h5>
+            <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+            <form action="/#" method="POST">
+            <p><input style="width: 270px;" class="form-input" type="text" name="url" placeholder="Paste URL here",value="50">  <br></p>
+            <input type="submit" value="Predict">
+            </form>
+
+        </div>
+    </center>
+    
+    {% elif type=='Legit'%}
+    <center>
+        <div class="card" style="width: 18rem; background-color: rgba(43, 255, 28, 0.898);">
+            <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+            <h5 class="card-title" style="color: rgb(223, 223, 223);"><b> Legit </b></h5>
+            <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+            <form action="/#" method="POST">
+            <p><input style="width: 270px;" class="form-input" type="text" name="url" placeholder="Paste URL here",value="50">  <br></p>
+            <input type="submit" value="Predict">
+            </form>
+
+        </div>
+    </center>
+    {% endif %}
+    </body>
+</html>
